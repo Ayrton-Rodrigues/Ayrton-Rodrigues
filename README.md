@@ -6,7 +6,6 @@
 - 💬 Atualmente estou aprendendo as seguintes tecnologias: **JavaScript, HTML, CSS**
 
 <br><br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -42,13 +41,19 @@
 </p>
 
 
+
+
+
+
+
+<!-- 
 - 👋 Hi, I’m @Ayrton-Rodrigues
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 Ayrton-Rodrigues/Ayrton-Rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can click the Preview link to take a look at your changes. -->
+
