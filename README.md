@@ -1,9 +1,10 @@
 # Readme
-<h1 align="left">Oi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Ayrton Rodrigues.</h1>
+<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I’m Ayrton Rodrigues</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayrton-Rodrigues&color=yellow" alt="Profile views" /> </p>
 
-- 👨‍💻 Estudante de Sistemas de Informação e de Desenvolvimento Front-End 
-- 💬 Atualmente estou aprendendo as seguintes tecnologias: **JavaScript, HTML, CSS**
+- 👨‍💻 Student of Information Systems and Front-End Development
+- 🌱 I am currently learning the following technologies: **JavaScript, HTML, CSS**
+- 👀 I am very interested in learning React.js and Vue.js in the future
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
