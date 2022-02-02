@@ -4,7 +4,7 @@
 
 - 👨‍💻 Student of Information Systems and Front-End Development
 - 🌱 I am currently learning the following technologies: **JavaScript, HTML, CSS**
-- 👀 I am very interested in learning React.js and Vue.js in the future
+- 👀 I am very interested in learning React.js and Angular in the future.
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
