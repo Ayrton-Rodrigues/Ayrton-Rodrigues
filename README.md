@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayrton-Rodrigues&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍💻 Student of Information Systems and Front-End Development
-- 🌱 I am currently learning the following technologies: **JavaScript, HTML, CSS**
+- 🌱 I am currently learning the following technologies: **TypeScript, JavaScript, HTML, CSS**
 - 👀 I am very interested in learning React.js and Angular in the future.
 
 <br><br>
@@ -15,6 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
