@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayrton-Rodrigues&color=yellow" alt="Profile views" /> </p>
 
 - 👨‍💻 Student of Information Systems and Front-End Development
-- 🌱 I am currently learning the following technologies: **TypeScript, JavaScript, HTML, CSS**
-- 👀 I am very interested in learning React.js and Angular in the future.
+- 🌱 I am currently learning the following technologies: **TypeScript, Angular**
+- 👀 I am very interested in learning React.js and Java in the future.
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
