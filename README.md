@@ -2,9 +2,9 @@
 <h1 align="left">Hi, I’m Ayrton Rodrigues</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayrton-Rodrigues&color=yellow" alt="Profile views" /> </p>
 
-- 👨‍💻 Student of Information Systems and Front-End Development
-- 🌱 I am currently learning the following technologies: **TypeScript, Angular**
-- 👀 I am very interested in learning React.js and Java in the future.
+- 👨‍💻 Backend and Front-End Development
+- 🌱 I'm currently working with the following technologies: **Angular and C# .NET**
+
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
