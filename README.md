@@ -34,10 +34,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://twitter.com/ayrtonnot" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/ayrton-rodrigues-879223188" target="_blank">
+<a href="https://linkedin.com/in/ayrton--rodriGues" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 </p>
